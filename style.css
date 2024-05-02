@@ -1,7 +1,11 @@
 @charset "UTF-8";
 body{
-    background-color:yellowgreen;
+    background-color:rgb(189, 250, 67);
 }
 h1{
     color: aliceblue;
 }
+h2{
+    background-color: blueviolet;
+}
+
